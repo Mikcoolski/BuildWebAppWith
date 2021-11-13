@@ -39,11 +39,11 @@ namespace Building_a_web_app_with
             //}
 
             //app.UseStaticFiles();
-            //new code line
+
             //app.UseRouting();
 
             //app.UseAuthorization();
-            //
+            
             // app.UseEndpoints(endpoints =>
             // {
             //endpoints.MapRazorPages();
